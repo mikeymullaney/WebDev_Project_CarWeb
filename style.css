@@ -24,11 +24,16 @@ p, footer, article, h1{
     color:rgb(196, 196, 196)
 }
 
-p{
+article{
     font-family: "Noto sans",sans-serif;
+    font-size: 15px;
 }
 /* background colour for h1*/ 
 body {
   background-color: rgb(104, 17, 17);
   color: white;
+}
+
+img {
+  border-radius: 25px;
 }
