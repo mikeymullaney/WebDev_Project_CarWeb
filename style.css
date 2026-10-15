@@ -21,7 +21,7 @@ ul li a:hover {
 p, footer, article, h1{
 
     text-align:center;
-    color:rgb(196, 196, 196)
+    color:rgb(233, 230, 230)
 }
 
 article{
@@ -42,4 +42,9 @@ body {
  background-image: url("background.jpg");
  background-color: #cccccc;
  background-size: cover;
+}
+
+.pgh {
+  text-align: center;
+  background-color: rgb(87, 84, 80);
 }
